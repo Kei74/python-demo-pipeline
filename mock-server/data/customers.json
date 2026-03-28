@@ -1,0 +1,182 @@
+[
+    {
+        "customer_id": "9dd185f7-a860-43bb-ad13-19c92b371927",
+        "first_name": "Olly",
+        "last_name": "Wharfe",
+        "email": "owharfe0@cnet.com",
+        "phone": "875-607-6420",
+        "date_of_birth": "2025-11-26T04:33:05Z",
+        "account_balance": 75878.06
+    },
+    {
+        "customer_id": "68c1c419-4a1c-49cd-ace8-11573ae6f148",
+        "first_name": "Cathy",
+        "last_name": "Willbourne",
+        "email": "cwillbourne1@army.mil",
+        "phone": "688-423-5524",
+        "date_of_birth": "2026-03-26T09:00:51Z",
+        "account_balance": 93976.02
+    },
+    {
+        "customer_id": "9c4248e4-9421-4a04-842a-55b9429067dc",
+        "first_name": "Tally",
+        "last_name": "Querree",
+        "email": "tquerree2@nifty.com",
+        "phone": "319-472-9587",
+        "date_of_birth": "2025-12-06T06:44:06Z",
+        "account_balance": 6685.91
+    },
+    {
+        "customer_id": "63ffd105-7d4b-4ffc-9e4d-77a82c8b43b4",
+        "first_name": "Monique",
+        "last_name": "Cornilli",
+        "email": "mcornilli3@chicagotribune.com",
+        "phone": "171-372-3787",
+        "date_of_birth": "2025-10-01T00:00:08Z",
+        "account_balance": 26191.45
+    },
+    {
+        "customer_id": "5b85ff50-ed39-493b-9b25-9ba66747aad3",
+        "first_name": "Rip",
+        "last_name": "Corroyer",
+        "email": "rcorroyer4@ocn.ne.jp",
+        "phone": "624-335-7333",
+        "date_of_birth": "2025-08-15T17:02:58Z",
+        "account_balance": 89444.14
+    },
+    {
+        "customer_id": "cfcc43b7-d98e-46ce-b180-68439a08c62b",
+        "first_name": "Tammie",
+        "last_name": "Ballintyne",
+        "email": "tballintyne5@hc360.com",
+        "phone": "791-922-7244",
+        "date_of_birth": "2025-07-02T16:46:22Z",
+        "account_balance": 11975.07
+    },
+    {
+        "customer_id": "dd88c75c-6e2a-4067-b78c-dfc6405ac6de",
+        "first_name": "Deidre",
+        "last_name": "Craighill",
+        "email": "dcraighill6@webnode.com",
+        "phone": "821-520-7209",
+        "date_of_birth": "2026-03-05T00:29:17Z",
+        "account_balance": 54792.71
+    },
+    {
+        "customer_id": "9a9bcf05-305a-47c8-96df-bc7a20093f02",
+        "first_name": "Amity",
+        "last_name": "Meins",
+        "email": "ameins7@plala.or.jp",
+        "phone": "871-851-8688",
+        "date_of_birth": "2025-07-15T10:59:13Z",
+        "account_balance": 95401.03
+    },
+    {
+        "customer_id": "a5d9c906-f455-4d07-93e6-9282af8263cb",
+        "first_name": "Carver",
+        "last_name": "Deering",
+        "email": "cdeering8@weather.com",
+        "phone": "909-212-8638",
+        "date_of_birth": "2025-07-27T13:39:35Z",
+        "account_balance": 86098.82
+    },
+    {
+        "customer_id": "ec710cc9-4a6c-4854-9bd7-af8f05c7166f",
+        "first_name": "Stella",
+        "last_name": "Panketh",
+        "email": "spanketh9@ftc.gov",
+        "phone": "291-855-7510",
+        "date_of_birth": "2025-11-09T01:42:01Z",
+        "account_balance": 93459.89
+    },
+    {
+        "customer_id": "7d0cf0c3-4153-4450-803c-d7268e0aee12",
+        "first_name": "Clayson",
+        "last_name": "Aicheson",
+        "email": "caichesona@sogou.com",
+        "phone": "890-371-2957",
+        "date_of_birth": "2025-11-26T02:56:32Z",
+        "account_balance": 7622.94
+    },
+    {
+        "customer_id": "cc78508a-61e0-4045-84d7-f74d3ae86dcd",
+        "first_name": "Erich",
+        "last_name": "Fladgate",
+        "email": "efladgateb@exblog.jp",
+        "phone": "592-885-2238",
+        "date_of_birth": "2026-01-23T06:29:27Z",
+        "account_balance": 33842.91
+    },
+    {
+        "customer_id": "9c0d0973-e1e4-496a-8825-cc9b4eda0ffa",
+        "first_name": "Jillane",
+        "last_name": "Killshaw",
+        "email": "jkillshawc@purevolume.com",
+        "phone": "961-731-2809",
+        "date_of_birth": "2025-05-19T22:19:11Z",
+        "account_balance": 91903.9
+    },
+    {
+        "customer_id": "63813b51-9a30-4432-b36a-c0c0c2b1be4c",
+        "first_name": "Graham",
+        "last_name": "Locket",
+        "email": "glocketd@mayoclinic.com",
+        "phone": "782-272-6830",
+        "date_of_birth": "2026-03-06T12:09:03Z",
+        "account_balance": 55216.79
+    },
+    {
+        "customer_id": "cedd8152-7866-443f-8504-bc808603a8d8",
+        "first_name": "Dalia",
+        "last_name": "Oakwell",
+        "email": "doakwelle@delicious.com",
+        "phone": "706-827-6885",
+        "date_of_birth": "2025-05-27T14:39:23Z",
+        "account_balance": 94282.02
+    },
+    {
+        "customer_id": "d94cff46-1966-4a0a-bf76-9d5253b319df",
+        "first_name": "Fransisco",
+        "last_name": "Fitchew",
+        "email": "ffitchewf@newyorker.com",
+        "phone": "774-359-5907",
+        "date_of_birth": "2025-07-12T13:32:18Z",
+        "account_balance": 6700.34
+    },
+    {
+        "customer_id": "2400a285-0a96-463a-a74a-992dda6c7cbb",
+        "first_name": "Merry",
+        "last_name": "Norkutt",
+        "email": "mnorkuttg@yellowpages.com",
+        "phone": "479-718-4556",
+        "date_of_birth": "2025-08-10T03:05:23Z",
+        "account_balance": 12558.6
+    },
+    {
+        "customer_id": "af47dd2c-6177-4111-922c-aff0aeaf503a",
+        "first_name": "Siouxie",
+        "last_name": "Welbourn",
+        "email": "swelbournh@xrea.com",
+        "phone": "592-331-5412",
+        "date_of_birth": "2025-08-14T23:36:32Z",
+        "account_balance": 72657.32
+    },
+    {
+        "customer_id": "65f239dc-cf7e-4e62-b90e-23015ea7d998",
+        "first_name": "Annmarie",
+        "last_name": "Scarborough",
+        "email": "ascarboroughi@example.com",
+        "phone": "261-882-4081",
+        "date_of_birth": "2025-06-08T18:31:22Z",
+        "account_balance": 29289.94
+    },
+    {
+        "customer_id": "e3a48046-1b81-4101-ad24-56babea07f23",
+        "first_name": "Lanae",
+        "last_name": "Eisikowitz",
+        "email": "leisikowitzj@list-manage.com",
+        "phone": "461-284-5566",
+        "date_of_birth": "2026-03-10T13:16:41Z",
+        "account_balance": 73049.3
+    }
+]

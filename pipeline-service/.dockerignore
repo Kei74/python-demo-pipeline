@@ -1,0 +1,17 @@
+# Python cache directories
+**/__pycache__/
+**/__pycache__/**
+
+# Bytecode files
+*.py[cod]
+*.pyo
+
+# Virtual envs
+venv/
+.env/
+env/
+ENV/
+.venv/
+
+# Git
+.git
