@@ -34,11 +34,10 @@ def fetch_paginated_customers(page: int = 1, limit: int = 5):
         total = db.query(Customer).count()
         total_pages = max(1, ceil(total / limit))
         
-        if page > total_pages:
-            page = total_pages
+        # if page > total_pages:
+        #     page = total_pages
         
         offset = (page-1) * limit
-        customers = "data!!!"
         customers = (db.query(Customer)
             .order_by(Customer.customer_id)
             .offset(offset)
