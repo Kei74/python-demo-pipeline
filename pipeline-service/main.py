@@ -1,7 +1,6 @@
 from math import ceil
 
 from fastapi import FastAPI, HTTPException
-import os
 
 from database import Session, Base, engine
 from models.customer import Customer
@@ -11,11 +10,12 @@ Base.metadata.create_all(engine)
 
 app = FastAPI()
 
-@app.get("/")
+@app.get("/api/health")
 def read_root():
-    return {"Hello": "World"}
+    return {
+		"status": "Server running"
+	}
 
-# Ingest customers from mock-server
 @app.get("/api/ingest")
 async def ingest_customers():
     row_counts = load_customers()
@@ -65,5 +65,4 @@ def fetch_customer_by_id(customer_id: str):
 
 if __name__ == "__main__":
     import uvicorn
-    PORT = int(os.getenv("PORT", "8000"))
-    uvicorn.run("main:app", host="0.0.0.0", port=PORT, reload=True)
+    uvicorn.run("main:app", host="0.0.0.0", port=8000, reload=True)

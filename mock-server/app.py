@@ -1,6 +1,5 @@
 from flask import Flask, request, jsonify
 import json
-import os
 
 
 app = Flask(__name__)
@@ -81,5 +80,4 @@ def single_customer(customer_id):
 			"message": "The requested customer does not exist",
 		}, 404
 
-PORT = int(os.getenv("PORT", "5000"))
-app.run(host='0.0.0.0', port=PORT, debug=False)
+app.run(host='0.0.0.0', port=5000, debug=False)
