@@ -10,7 +10,7 @@ def load_customers():
     
     pipeline = dlt.pipeline(
         pipeline_name="customers_api_pipeline",
-        destination=sqlalchemy(engine),
+        destination="postgres",
         dataset_name="public",
     )
 

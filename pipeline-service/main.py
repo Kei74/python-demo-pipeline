@@ -18,8 +18,11 @@ def read_root():
 # Ingest customers from mock-server
 @app.get("/api/ingest")
 async def ingest_customers():
-    row_counts = load_customers()['customers']
-    return row_counts
+    row_counts = load_customers()
+    return {
+        "status": "success",
+        "records_processed": row_counts
+    }
 
 # Paginated customers
 @app.get("/api/customers")
