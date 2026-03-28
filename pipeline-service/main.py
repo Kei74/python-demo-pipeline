@@ -16,7 +16,8 @@ def read_root():
 		"status": "Server running"
 	}
 
-@app.get("/api/ingest")
+# Ingest customers from mock-server
+@app.post("/api/ingest")
 async def ingest_customers():
     row_counts = load_customers()
     return {
